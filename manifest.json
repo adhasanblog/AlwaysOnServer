@@ -1,0 +1,10 @@
+{
+  "Name": "Always On Server",
+  "Author": "adhasangg",
+  "Version": "1.0.0",
+  "Description": "Mod untuk menjaga server Stardew Valley tetap berjalan meskipun semua pemain keluar.",
+  "UniqueID": "adhasangg.alwaysonserver",
+  "EntryDll": "AlwaysOnServer.dll",
+  "MinimumApiVersion": "3.0",
+  "UpdateKeys": []
+}
